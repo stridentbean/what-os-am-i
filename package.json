@@ -1,0 +1,26 @@
+{
+  "name": "what-os-am-i",
+  "version": "1.0.0",
+  "description": "Use this application to find out what operating system you are running",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stridentbean/what-os-am-i.git"
+  },
+  "keywords": [
+    "os",
+    "arch"
+  ],
+  "author": "Michael Borglin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stridentbean/what-os-am-i/issues"
+  },
+  "homepage": "https://github.com/stridentbean/what-os-am-i#readme",
+  "dependencies": {
+    "os": "^0.1.1"
+  }
+}
